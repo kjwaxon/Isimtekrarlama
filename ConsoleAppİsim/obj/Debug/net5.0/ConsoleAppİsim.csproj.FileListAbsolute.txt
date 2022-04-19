@@ -1,0 +1,16 @@
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.exe
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.deps.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.runtimeconfig.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.runtimeconfig.dev.json
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ref\ConsoleAppİsim.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\bin\Debug\net5.0\ConsoleAppİsim.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.AssemblyInfo.cs
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ref\ConsoleAppİsim.dll
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.pdb
+C:\Users\Asus\source\repos\ConsoleAppExample\ConsoleAppİsim\obj\Debug\net5.0\ConsoleAppİsim.genruntimeconfig.cache
